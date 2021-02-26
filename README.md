@@ -33,7 +33,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![gif walkthrouh](Ch3__Gif_Keivan.gif)
+<img src="https://github.com/key1nike/SimpleTweet/blob/master/Ch3__Gif_Keivan.gif" width="50">
+
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
